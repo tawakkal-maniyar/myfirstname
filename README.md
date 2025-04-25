@@ -1,6 +1,4 @@
 # myfirstname
-// C program to find the largest number among three number
-// using nested if-else
 #include <stdio.h>
 
 int main()
